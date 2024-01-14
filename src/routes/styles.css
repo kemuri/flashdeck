@@ -1,0 +1,12 @@
+@import '@fontsource/fira-mono';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+    @apply flex items-center justify-center bg-slate-300 p-4 rounded-lg ; /* Example styling for the speedometer */
+}
+
+
+
